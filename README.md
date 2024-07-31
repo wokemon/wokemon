@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wokemon
 - 👀 I’m interested in good food, music, video games and exploring new things
-- 🌱 I’m currently learning Computer Science with C#, JavaScript, Kotlin, Java,...
+- 🌱 I’m currently learning Computer Science with C#, JavaScript, Kotlin, Java,... (graduated)
 - 💞️ I’m looking to collaborate on nothing yet in the near future. Maybe internships?
 - 📫 How to reach me:
   - By Email: hieunghiabeo@gmail.com
